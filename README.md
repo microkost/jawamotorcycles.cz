@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/microkost/jawamotorcycles.cz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Jawa motorcycles European meetings
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You have your bike already, so where to go with it to meet other enthusiasts? 🤠
 
-### Markdown
+## 2022 meetings
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Date | Place | Name | Note | Link |
+| :---: | :---: | :---: | :---: | :---: |
+| 2021 | A |   |   |   |
+| 2021 | B |   |   |   |
+| 2021 | C |   |   |   |
 
-```markdown
-Syntax highlighted code block
+> Missing event? Report it to [online form](https://docs.google.com/forms/d/e/1FAIpQLScxJWDXilwS29Pb-FMwA3wMpQpbY8Qore8i5U9GqQWvStmS8g/viewform?usp=sf_link).
 
-# Header 1
-## Header 2
-### Header 3
+[//]: # "https://github.com/ikatyang/emoji-cheat-sheet#country-flag"
 
-- Bulleted
-- List
+### Other moto event sources
+| Country | Place |
+|---|---|
+| 🇨🇿 | [Motorkari.cz](https://www.motorkari.cz/motoakce/?act=mapa&scr=0?utm_source=jawamotorcycles.cz) |
+| 🇨🇿 | [Jawa.eu](https://www.jawa.eu/akce?utm_source=jawamotorcycles.cz) |
 
-1. Numbered
-2. List
+> Missing your favorite source? [Report it](https://docs.google.com/forms/d/e/1FAIpQLScxJWDXilwS29Pb-FMwA3wMpQpbY8Qore8i5U9GqQWvStmS8g/viewform?usp=sf_link).
 
-**Bold** and _Italic_ and `Code` text
+### Disclaimer
 
-[Link](url) and ![Image](src)
-```
+This is a comunity content page created by <ivo@kostecky.cz>. Modification suggestions by [Github Pull Request](https://github.com/microkost/jawamotorcycles.cz/pulls).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can find the bike manufacturer from pages 🇨🇿 [Jawa.eu](https://www.jawa.eu?utm_source=jawamotorcycles.cz) or 🇮🇳 [Jawamotorcycles.com](https://www.jawamotorcycles.com?utm_source=jawamotorcycles.cz)
 
-### Jekyll Themes
+## Past events
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/microkost/jawamotorcycles.cz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+no records

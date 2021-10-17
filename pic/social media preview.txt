@@ -1,0 +1,3 @@
+social media preview.
+
+Images should be at least 640×320px (1280×640px for best display).

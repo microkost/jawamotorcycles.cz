@@ -25,7 +25,10 @@ layout: default
 
 ## Motorcycles
 
-You can find the bike manufacturer pages 🇨🇿 [Jawa.eu](https://www.jawa.eu?utm_source=jawamotorcycles.cz) or 🇮🇳 [Jawamotorcycles.com](https://www.jawamotorcycles.com?utm_source=jawamotorcycles.cz) or 🇦🇷 [rvm.com.ar](https://rvm.com.ar/?utm_source=jawamotorcycles.cz)
+You can find the bike manufacturer pages
+- 🇨🇿 [Jawa.eu](https://www.jawa.eu?utm_source=jawamotorcycles.cz)
+- 🇮🇳 [Jawamotorcycles.com](https://www.jawamotorcycles.com?utm_source=jawamotorcycles.cz)
+- 🇦🇷 [rvm.com.ar](https://rvm.com.ar/?utm_source=jawamotorcycles.cz)
 
 ## Past events
 

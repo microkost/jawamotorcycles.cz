@@ -1,5 +1,7 @@
 # Project documentation
 
+Check the address [www.jawamotorcycles.cz](https://www.jawamotorcycles.cz) for actuall content.
+
 # Developer documentation
 
 # Support

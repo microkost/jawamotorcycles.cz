@@ -11,6 +11,7 @@ layout: default
 | 4.-6.6.2022 | 🇳🇱 | International Jawarally Netherlands | [Jawa-CZ Club Nederland](https://www.jawarally2022.nl/) |
 | 10.-12.6.2022 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://jawasakki.fi/index.php/Fi/) |
 | 17.-19.6.2022| 🇸🇪 | Sågverksfesten i Tavelsjö | [Svenska Jawaklubben](https://jawaklubben.se/) |
+| ?/2022 | 🇨🇿 | 350 OHC / 3x0 CL sraz (Želiv Sport Park - Kocanda) | FB: Ludvík Uďa Opletal |
 | | 🇱🇻 | | [Jawaklubs Latvija](http://www.jawaklubs.lv/kluba-jaunumi.php) |
 | | 🇱🇹 | Baltic JAWA festival Lithuania ||
 | 8/2022? | 🇸🇰 | 11. Jawa ČZ Stretko | [Jawa SK](https://facebook.com/jawaczstretko/) |

@@ -24,6 +24,10 @@ layout: default
 
 > Missing meeting? Report it to [online form](https://docs.google.com/forms/d/e/1FAIpQLScxJWDXilwS29Pb-FMwA3wMpQpbY8Qore8i5U9GqQWvStmS8g/viewform?usp=sf_link).
 
+## 2022 🌍 events
+
+> Not announced. Report it to [online form](https://docs.google.com/forms/d/e/1FAIpQLScxJWDXilwS29Pb-FMwA3wMpQpbY8Qore8i5U9GqQWvStmS8g/viewform?usp=sf_link).
+
 ### Other moto event sources
 
 | Country | Place |

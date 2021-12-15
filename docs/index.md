@@ -14,6 +14,7 @@ layout: default
 | ?/2022 | 🇨🇿 | 350 OHC / 3x0 CL sraz (Želiv Sport Park - Kocanda) | FB: Ludvík Uďa Opletal |
 | | 🇱🇹 | Baltic JAWA festival Lithuania ||
 | 5.8.-7.8.2022 | 🇱🇻 | Rāznas Ezerkrasti | [Jawaklubs Latvija](http://www.jawaklubs.lv/kluba-jaunumi.php) |
+| 12.-14.8.2022 | 🇨🇿 | Jawa 350tour sraz | [Kemp Caramba](https://fb.me/e/2hlz0aZp5) |
 | 8/2022? | 🇸🇰 | 11. Jawa ČZ Stretko | [Jawa SK](https://facebook.com/jawaczstretko/) |
 | 8/2022? | 🇳🇴 | Jawa klub ride  | [JawaKlubben Norge](http://jawaklubben.no/) |
 | 26.-28.8/2022 | 🇫🇮 | JawaTalli Ajo Oulu | [JawaTalli dealer's ride](https://www.jawatalli.fi/) |

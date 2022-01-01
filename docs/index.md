@@ -6,8 +6,9 @@ layout: default
 
 | Date | Country | Info | Link |
 | :--- | :---: | :--- | :--- |
+| 22.1.2022 | 🇨🇿 | 9. zimáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 | 19-20.3.2022 | 🇫🇮 | [Jawalla ajetaan Päitsillä](https://facebook.com/Jawa-Palaa-P%C3%A4itsille-283166846809398/) (race) | [Päijänteen-ympäriajo](https://www.paijanne-enduro.fi/en)  |
-| ?/2022 | 🇨🇿 | Zahajawačka | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
+| 23.4.2022 | 🇨🇿 | Zahajawačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 | 4.-6.6.2022 | 🇳🇱 | International Jawarally Netherlands | [Jawa-CZ Club Nederland](https://www.jawarally2022.nl/) |
 | 10.-12.6.2022 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://jawasakki.fi/index.php/Fi/) |
 | 17.-19.6.2022| 🇸🇪 | Sågverksfesten i Tavelsjö | [Svenska Jawaklubben](https://jawaklubben.se/) |
@@ -18,8 +19,9 @@ layout: default
 | 8/2022? | 🇸🇰 | 11. Jawa ČZ Stretko | [Jawa SK](https://facebook.com/jawaczstretko/) |
 | 8/2022? | 🇳🇴 | Jawa klub ride  | [JawaKlubben Norge](http://jawaklubben.no/) |
 | 26.-28.8/2022 | 🇫🇮 | JawaTalli Ajo Oulu | [JawaTalli dealer's ride](https://www.jawatalli.fi/) |
-| 9/2022? | 🇨🇿 | 40. Jawáč | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
+| 2.-4.9.2022 | 🇨🇿 | 40. Jawáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 | 9/2022? | 🇩🇪 | 22. JAWA & Oldtimer Herbsttreffen | [Jawa-Freunde Vogtland](https://jawafreunde.de/index.php/berichte.html) |
+| 15.10.2022 | 🇨🇿 | Ukončovačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 
 [//]: # "https://github.com/ikatyang/emoji-cheat-sheet#country-flag"
 

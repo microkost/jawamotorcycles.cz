@@ -11,6 +11,7 @@ layout: default
 | 23.4.2022 | 🇨🇿 | Zahajawačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 | 4.-6.6.2022 | 🇳🇱 | International Jawarally Netherlands | [Jawa-CZ Club Nederland](https://www.jawarally2022.nl/) |
 | 10.-12.6.2022 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://jawasakki.fi/index.php/Fi/) |
+| 11.6.2022 | 🇨🇿 | Jawa moto friends meeting | [Klub netradičních nápadů Ledce](https://www.facebook.com/events/s/sraz-pratel-znacky-jawa/3235069746738107/) |
 | 17.-19.6.2022| 🇸🇪 | Sågverksfesten i Tavelsjö | [Svenska Jawaklubben](https://jawaklubben.se/) |
 | ?/2022 | 🇨🇿 | 350 OHC / 3x0 CL sraz (Želiv Sport Park - Kocanda) | FB: Ludvík Uďa Opletal |
 | | 🇱🇹 | Baltic JAWA festival Lithuania ||

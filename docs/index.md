@@ -14,6 +14,7 @@ layout: default
 | 4.-6.6.2022 | 🇳🇱 | International Jawarally Netherlands | [Jawa-CZ Club Nederland](https://www.jawarally2022.nl/) |
 | 10.-12.6.2022 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://jawasakki.fi/index.php/Fi/) |
 | 11.6.2022 | 🇨🇿 | Jawa moto friends meeting | [Klub netradičních nápadů Ledce](https://www.facebook.com/events/s/sraz-pratel-znacky-jawa/3235069746738107/) |
+| 11.6.2022 | 🇨🇿 | Jawa 500 OHC (XIV. meeting) | Rovensko pod Troskami, organized by Jindřich Drahoňovský |
 | 17.-19.6.2022| 🇸🇪 | Sågverksfesten i Tavelsjö | [Svenska Jawaklubben](https://jawaklubben.se/) |
 | ?/2022 | 🇨🇿 | 350 OHC / 3x0 CL sraz (Želiv Sport Park - Kocanda) | FB: Ludvík Uďa Opletal |
 | 2.7.2022 | 🇸🇰 | Preteky veteranov Nitra | [Official Jawa Klub Slovensko](https://www.facebook.com/Official-Jawa-Klub-Slovensko-1371735932895009/) |

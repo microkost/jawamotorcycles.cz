@@ -17,18 +17,17 @@ layout: default
 | 11.6.2022 | 🇨🇿 | Jawa moto friends meeting | [Klub netradičních nápadů Ledce](https://www.facebook.com/events/s/sraz-pratel-znacky-jawa/3235069746738107/) |
 | 11.6.2022 | 🇨🇿 | Jawa 500 OHC (XIV. meeting) | Rovensko pod Troskami, [link](https://www.facebook.com/events/698394628176504/) |
 | 17.-19.6.2022| 🇸🇪 | Sågverksfesten i Tavelsjö | [Svenska Jawaklubben](https://jawaklubben.se/) |
-| ?/2022 | 🇨🇿 | 350 OHC / 3x0 CL sraz (Želiv Sport Park - Kocanda) | FB: Ludvík Uďa Opletal |
 | 2.-3.7.2022 | 🇱🇹 | Baltic JAWA festival Lithuania Kretinga | [JAWA Club Lithuania](https://www.facebook.com/JAWA-Club-Lithuania-JAWA-Fan%C5%B3-Klubas-Lietuva-304724539946979) |
 | 2.7.2022 | 🇸🇰 | Preteky veteranov Nitra | [Official Jawa Klub Slovensko](https://www.facebook.com/Official-Jawa-Klub-Slovensko-1371735932895009/) |
 | 8.-10.7.2022 | 🇬🇧 | Jawa-CZ Owners Club National Rally | [Jawaczownersclub.co.uk](http://www.jawaczownersclub.co.uk/events.htm) |
+| 22.-24.7.2022 | 🇩🇪 | 18.Jawa 500 OHC Treffen | [Landgasthof Veitenhäuser - Treuen, Sachsen](https://jawafreunde.de/index.php/termine/event/43-18-jawa-500-ohc-treffen.html) |
 | 5.8.-7.8.2022 | 🇱🇻 | Rāznas Ezerkrasti | [Jawaklubs Latvija](http://www.jawaklubs.lv/kluba-jaunumi.php) |
+| 12.-14.8.2022 | 🇳🇴 | Jawa club ride  | [JawaKlubben Norge](http://jawaklubben.no/) |
 | 12.-14.8.2022 | 🇨🇿 | Jawa 350tour sraz | [Kemp Caramba](https://fb.me/e/2hlz0aZp5) |
-| 13?.8.2022 | 🇸🇰 | 11. Jawa ČZ Stretko | [Jawa SK](https://facebook.com/jawaczstretko/) |
+| 12.-14.8.2022 | 🇸🇰 | 11. Jawa ČZ Stretko | [Jawa SK](https://www.facebook.com/events/456883366107646) |
 | 27.8.2022 | 🇸🇰 | Celoslovenské stretnutie veteránov Nitra | [Official Jawa Klub Slovensko](https://www.facebook.com/Official-Jawa-Klub-Slovensko-1371735932895009/) |
-| 8/2022? | 🇳🇴 | Jawa klub ride  | [JawaKlubben Norge](http://jawaklubben.no/) |
 | 26.-28.8.2022 | 🇫🇮 | JawaTalli Ajo Oulu | [JawaTalli dealer's ride](https://www.jawatalli.fi/) |
 | 2.-4.9.2022 | 🇨🇿 | 40. Jawáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
-| 9/2022? | 🇩🇪 | 22. JAWA & Oldtimer Herbsttreffen | [Jawa-Freunde Vogtland](https://jawafreunde.de/index.php/berichte.html) |
 | 1.10.2022 | 🇸🇰 | Ukončenie veterásnkej sezóny Nitra | [Official Jawa Klub Slovensko](https://www.facebook.com/Official-Jawa-Klub-Slovensko-1371735932895009/) |
 | 15.10.2022 | 🇨🇿 | Ukončovačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 

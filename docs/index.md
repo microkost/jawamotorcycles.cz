@@ -26,7 +26,7 @@ layout: default
 | 12.-14.8.2022 | 🇨🇿 | Jawa 350tour sraz | [Kemp Caramba](https://fb.me/e/2hlz0aZp5) |
 | 12.-14.8.2022 | 🇸🇰 | 11. Jawa ČZ Stretko | [Jawa SK](https://www.facebook.com/events/456883366107646) |
 | 27.8.2022 | 🇸🇰 | Celoslovenské stretnutie veteránov Nitra | [Official Jawa Klub Slovensko](https://www.facebook.com/Official-Jawa-Klub-Slovensko-1371735932895009/) |
-| 26.-28.8.2022 | 🇫🇮 | JawaTalli Ajo Oulu | [JawaTalli dealer's ride](https://www.jawatalli.fi/) |
+| 26.-28.8.2022 | 🇫🇮 | JawaTalli Ajo Oulu | [JawaTalli dealer's ride](https://www.facebook.com/JawaTalli/photos/a.110105852872782/1139226473294043) |
 | 2.-4.9.2022 | 🇨🇿 | 40. Jawáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 | 1.10.2022 | 🇸🇰 | Ukončenie veterásnkej sezóny Nitra | [Official Jawa Klub Slovensko](https://www.facebook.com/Official-Jawa-Klub-Slovensko-1371735932895009/) |
 | 15.10.2022 | 🇨🇿 | Ukončovačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |

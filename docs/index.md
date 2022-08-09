@@ -21,6 +21,7 @@ layout: default
 | 8.-10.7.2022 | 🇬🇧 | Jawa-CZ Owners Club National Rally | [Jawaczownersclub.co.uk](http://www.jawaczownersclub.co.uk/events.htm) |
 | 22.-24.7.2022 | 🇩🇪 | 18.Jawa 500 OHC Treffen | [Landgasthof Veitenhäuser - Treuen, Sachsen](https://jawafreunde.de/index.php/termine/event/43-18-jawa-500-ohc-treffen.html) |
 | 5.8.-7.8.2022 | 🇱🇻 | Rāznas Ezerkrasti | [Jawaklubs Latvija](http://www.jawaklubs.lv/kluba-jaunumi.php) |
+| 13.8.2022 | 🇱🇹 | JAWA ŽYGIS | [JAWA Club Lithuania](https://www.facebook.com/events/770336290783712/)
 | 12.-14.8.2022 | 🇳🇴 | Jawa club ride  | [JawaKlubben Norge](http://jawaklubben.no/) |
 | 19.-21.8.2022| 🇸🇪 | Sågverksfesten i Tavelsjö | [Svenska Jawaklubben](https://jawaklubben.se/) |
 | 12.-14.8.2022 | 🇨🇿 | Jawa 350tour sraz | [Kemp Caramba](https://fb.me/e/2hlz0aZp5) |

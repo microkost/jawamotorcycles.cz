@@ -38,4 +38,4 @@ You can find it on the [main page](index.md)
 
 ## 202x 🇪🇺 events
 
-not collected before here
+not collected here

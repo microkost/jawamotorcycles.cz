@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## 2023 🇪🇺 events
+
+You can find it on the [main page](index.md)
+
 ## 2022 🇪🇺 events
 
 | Date | Country | Info | Link |
@@ -32,21 +36,6 @@ layout: default
 | 1.10.2022 | 🇸🇰 | Ukončenie veterásnkej sezóny Nitra | [Official Jawa Klub Slovensko](https://www.facebook.com/Official-Jawa-Klub-Slovensko-1371735932895009/) |
 | 15.10.2022 | 🇨🇿 | Ukončovačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 
-[//]: # "https://github.com/ikatyang/emoji-cheat-sheet#country-flag"
+## 202x 🇪🇺 events
 
-> Missing meeting? Report it to [online form](https://docs.google.com/forms/d/e/1FAIpQLScxJWDXilwS29Pb-FMwA3wMpQpbY8Qore8i5U9GqQWvStmS8g/viewform?usp=sf_link).
-
-
-## Motorcycles
-
-You can find the bike manufacturer pages
-
-- 🇨🇿 🇸🇰 [Jawa.eu](https://www.jawa.eu?utm_source=jawamotorcycles.cz)
-- 🇮🇳 [Jawamotorcycles.com](https://www.jawamotorcycles.com?utm_source=jawamotorcycles.cz)
-- 🇦🇷 [rvm.com.ar](https://rvm.com.ar/?utm_source=jawamotorcycles.cz)
-- 🇮🇳 [Yezdi.com](http://yezdi.com?utm_source=jawamotorcycles.cz)
-
-
-## Past events
-
-You can find listed [here](past-events.md).
+not collected before here

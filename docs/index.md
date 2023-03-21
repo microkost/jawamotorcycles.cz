@@ -17,6 +17,7 @@ layout: default
 |   3.6.2023 | 🇨🇿 | Motovíkend JKP Železné hory | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 |   9.6.2023 | 🇫🇮 | 40. JawasakkiAjo | [Jawasakki](https://jawasakki.fi/) |
 |   9.6.2023 | 🇩🇪 | 18. meeting of friends Jawa Magdeburg | [jawafreunde.de](https://jawafreunde.de/index.php/termine/) |
+|   9.6.2023 | 🇨🇿 | Sraz bastlů a patinovek Hradčany-Koběřice | [Motokenny.cz](https://www.veterankalendar.cz/index.php?id=5&id_p=7842) |
 |  10.6.2023 | 🇨🇿 | Sraz přátel značky Jawa | [Klub netradičních nápadů Ledce](https://www.facebook.com/events/558374962973820/) |
 |  10.6.2023 | 🇨🇿 | Jawa 500 OHC Rovensko pod Troskami | [SetkaniMotocykluJawa500Ohc](https://www.facebook.com/SetkaniMotocykluJawa500Ohc) |
 |  17.6.2023 | 🇸🇰 | Stretnutie veteránov Nitra | [Jawa Klub Slovensko](https://www.facebook.com/profile.php?id=100064802682552) |

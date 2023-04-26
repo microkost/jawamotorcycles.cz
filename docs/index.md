@@ -17,7 +17,7 @@ layout: default
 |   3.6.2023 | 🇨🇿 | Motovíkend JKP Železné hory | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 |   9.6.2023 | 🇫🇮 | 40. JawasakkiAjo | [Jawasakki](https://jawasakki.fi/) |
 |   9.6.2023 | 🇩🇪 | 18. meeting of friends Jawa Magdeburg | [jawafreunde.de](https://jawafreunde.de/index.php/termine/) |
-|   9.6.2023 | 🇨🇿 | Sraz bastlů a patinovek Hradčany-Koběřice | [Motokenny.cz](https://www.veterankalendar.cz/index.php?id=5&id_p=7842) |
+|   9.6.2023 | 🇨🇿 | Sraz bastlů a patinovek Hradčany-Koběřice | [Motokenny.cz](https://www.facebook.com/events/168544469134721/) |
 |  10.6.2023 | 🇨🇿 | Sraz přátel značky Jawa | [Klub netradičních nápadů Ledce](https://www.facebook.com/events/558374962973820/) |
 |  10.6.2023 | 🇨🇿 | Jawa 500 OHC Rovensko pod Troskami | [SetkaniMotocykluJawa500Ohc](https://www.facebook.com/SetkaniMotocykluJawa500Ohc) |
 |  17.6.2023 | 🇸🇰 | Stretnutie veteránov Nitra | [Jawa Klub Slovensko](https://www.facebook.com/profile.php?id=100064802682552) |
@@ -28,6 +28,7 @@ layout: default
 |  11.8.2023 | 🇸🇰 | 12. Jawa ČZ Stretko Tužina na Hatalisku | [Jawa ČZ Stretko](https://www.facebook.com/events/1342849809831408) |
 |  11.8.2023 | 🇳🇴 | Jawa club ride ❔ | [JawaKlubben Norge](http://jawaklubben.no/) |
 |  19.8.2023 | 🇸🇪 | ❔ | [Svenska Jawaklubben](https://jawaklubben.se/) |
+|  26.8.2023 | 🇨🇿 | Sjezd Jawistů po 70 letech v Luhačovicích | [Veterankalendar](https://www.veterankalendar.cz/index.php?id=5&id_p=8387) |
 |  26.8.2023 | 🇫🇮 | JawaTalli ajo + CFmoto | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
 |   1.9.2023 | 🇨🇿 | 41. Jawáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 |   2.9.2023 | 🇸🇰 | Stretnutie veteránov Nitra | [Jawa Klub Slovensko](https://www.facebook.com/profile.php?id=100064802682552) |

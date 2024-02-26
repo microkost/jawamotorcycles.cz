@@ -68,7 +68,3 @@ You can find it on the [main page](index.md)
 | 2.-4.9.2022 | 🇨🇿 | 40. Jawáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 | 1.10.2022 | 🇸🇰 | Ukončenie veterásnkej sezóny Nitra | [Official Jawa Klub Slovensko](https://www.facebook.com/Official-Jawa-Klub-Slovensko-1371735932895009/) |
 | 15.10.2022 | 🇨🇿 | Ukončovačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
-
-## 202x 🇪🇺 events
-
-not collected here

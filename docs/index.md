@@ -20,6 +20,7 @@ layout: default
 |  10.8.2024 | 🇳🇴 | Jawa club meeting západní | [JawaKlubben Norge](http://jawaklubben.no/) |
 |  17.8.2024 | 🇸🇪 | Swedish Jawa club meeting | [Svenska Jawaklubben](https://jawaklubben.se/) |
 |  24.8.2024 | 🇫🇮 | JawaTalli ajo + CFmoto | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
+|  31.8.2024 | 🇸🇰 | Slovenský zraz Jawa 500 OHC | [Dolany](assets/2024/jawa-slovakia-500-2024.jpg) |
 |   7.9.2024 | 🇨🇿 | Jawáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 | 19.10.2024 | 🇨🇿 | Ukončovačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 

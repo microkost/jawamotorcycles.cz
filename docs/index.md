@@ -9,7 +9,7 @@ layout: default
 |  20.1.2024 | 🇨🇿 | Zimáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 |  20.4.2024 | 🇨🇿 | Zahajawačka JKP Marina Orlík | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 |  11.5.2024 | 🇫🇮 | Tuuletus, Myllyköski Finland | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
-|  18.5.2024 | 🇨🇿 | Setkání majitelů Jawa 650/660 | Třeboň |
+|  18.5.2024 | 🇨🇿 | Setkání majitelů Jawa 650/660 | [Třeboň](https://www.motorkari.cz/motoakce/akce/?aid=15128) |
 |   1.6.2024 | 🇳🇴 | Jawa club meeting východní | [JawaKlubben Norge](assets/2024/jawa-norway-2024-june.jpg) |
 |   1.6.2024 | 🇨🇿 | Jawa 350 OHC owners meeting | [Želiv Hotel na Kocandě](https://www.facebook.com/events/2541657119359249) |
 |   8.6.2024 | 🇫🇮 | 41. JawasakkiAjo | [Jawasakki](https://www.jawasakki.fi/tapahtuma/jawasakkiajot-2024/) |

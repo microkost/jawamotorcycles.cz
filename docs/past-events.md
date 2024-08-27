@@ -49,6 +49,7 @@ You can find it on the [main page](index.md)
 | 7.5.2022 | 🇨🇿 | 3. ročník: Zahájení sezóny aneb Hanácké čmód | [pozvánka](https://www.facebook.com/events/668667414318182/?ref=newsfeed) |
 | 14.5.2022 | 🇨🇿 | Vyjížďka historických motocyklů < 50 ccm | [Černokostelecké Padesátky](https://www.cernokostelecke-padesatky.cz/) |
 | 27.-29.5.2022 | 🇨🇿 | XVI setkání majitelů Jawa 650/660 | Zámek Lobeč |
+| 4.6.2022 | 🇩🇪 | Jawa meeting | [Bad Schmiedeberg](https://www.facebook.com/photo/?fbid=657074969014553&set=gm.3307903396111435) |
 | 4.-6.6.2022 | 🇳🇱 | International Jawarally Netherlands | [Jawa-CZ Club Nederland](https://www.jawarally2022.nl/) |
 | 10.-12.6.2022 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://jawasakki.fi/index.php/Fi/) |
 | 11.6.2022 | 🇨🇿 | Jawa moto friends meeting | [Klub netradičních nápadů Ledce](https://www.facebook.com/events/s/sraz-pratel-znacky-jawa/3235069746738107/) |

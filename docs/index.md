@@ -13,6 +13,7 @@ layout: default
 |  31.5.2025 | 🇳🇴 | Jawa club meeting in Lyngdal | [JawaKlubben Norge](http://jawaklubben.no/) |
 |   7.6.2025 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://www.jawasakki.fi/tapahtuma/jawasakkiajot-2025/) |
 |  14.6.2025 | 🇬🇧 | The UK Jawa CZ Owners Club rally | [Jawaczownersclub.co.uk](http://www.jawaczownersclub.co.uk/events.htm) |
+|  14.6.2025 | 🇨🇿 | Sraz přátel značky Jawa | [Klub netradičních nápadů Ledce](https://www.knnledce.cz/index.php?id=sraz-patel-jawy-a-malotraktor) |
 |  29.6.2025 | 🇱🇹 | Baltic Jawa festival | [JAWA Club Lithuania](https://www.facebook.com/profile.php?id=100077316098945&sk=events) |
 |   5.7.2025 | 🇨🇿 | Jawa brotherhood meeting | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) [pre-registration](https://forms.gle/U27AujPFdqp9f8G9A) [poster](assets/2025/jawa-czechia-brotherhood-2025.jpg) |
 |   9.8.2025 | 🇱🇻 | Latvija Jawa festival | [Jawaklubs Latvija](https://www.facebook.com/Jawaklubs/events) [poster](assets/2025/jawa-latvia-2025.jpg) |

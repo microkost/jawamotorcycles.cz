@@ -9,7 +9,7 @@ layout: default
 |  25.1.2025 | 🇨🇿 | Zimáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 |     4/2025 | 🇨🇿 | Zahajawačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 |   1.5.2025 | 🇩🇪 | Rodewisch | [jawafreunde.de](https://jawafreunde.de/index.php/beitrage-von-veranstaltungen) |
-|  17.5.2025 | 🇫🇮 | Tuuletus JawaTalli (?) | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
+|  10.5.2025 | 🇫🇮 | Tuuletus JawaTalli | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
 |  31.5.2025 | 🇳🇴 | Jawa club meeting in Lyngdal | [JawaKlubben Norge](http://jawaklubben.no/) |
 |   7.6.2025 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://www.jawasakki.fi/tapahtuma/jawasakkiajot-2025/) |
 |  14.6.2025 | 🇬🇧 | The UK Jawa CZ Owners Club rally | [Jawaczownersclub.co.uk](http://www.jawaczownersclub.co.uk/events.htm) |

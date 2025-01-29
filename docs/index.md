@@ -11,6 +11,7 @@ layout: default
 |   1.5.2025 | 🇩🇪 | Rodewisch | [jawafreunde.de](https://jawafreunde.de/index.php/beitrage-von-veranstaltungen) |
 |  10.5.2025 | 🇫🇮 | Tuuletus JawaTalli | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
 |  31.5.2025 | 🇳🇴 | Jawa club meeting in Lyngdal | [JawaKlubben Norge](http://jawaklubben.no/) |
+|   7.6.2025 | 🇨🇿 | Setkání motocyklů JAWA 500 OHC | [JAWA 500 OHC](https://www.facebook.com/events/1177004126811472) |
 |   7.6.2025 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://www.jawasakki.fi/tapahtuma/jawasakkiajot-2025/) |
 |  14.6.2025 | 🇬🇧 | The UK Jawa CZ Owners Club rally | [Jawaczownersclub.co.uk](http://www.jawaczownersclub.co.uk/events.htm) |
 |  14.6.2025 | 🇨🇿 | Sraz přátel značky Jawa | [Klub netradičních nápadů Ledce](https://www.knnledce.cz/index.php?id=sraz-patel-jawy-a-malotraktor) |

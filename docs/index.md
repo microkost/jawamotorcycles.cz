@@ -7,7 +7,7 @@ layout: default
 | Date | Country | Info | Organizer |
 | :--- | :---: | :--- | :--- |
 |  25.1.2025 | 🇨🇿 | Zimáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
-|     4/2025 | 🇨🇿 | Zahajawačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
+|  26.4.2025 | 🇨🇿 | Zahajawačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 |   1.5.2025 | 🇩🇪 | Rodewisch | [jawafreunde.de](https://jawafreunde.de/index.php/beitrage-von-veranstaltungen) |
 |   3.5.2025 | 🇨🇿 | Zahájení sezóny aneb Hanácké čmód | [Litovel](https://www.facebook.com/events/965865398187620/) |
 |  10.5.2025 | 🇫🇮 | Tuuletus JawaTalli | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
@@ -23,7 +23,7 @@ layout: default
 |   9.8.2025 | 🇳🇴 | Jawa club meeting in Lom | [JawaKlubben Norge](http://jawaklubben.no/) |
 |  30.8.2025 | 🇫🇮 | JawaTalli ajo | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
 |   6.9.2025 | 🇨🇿 | Jawáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
-|    10/2025 | 🇨🇿 | Ukončovačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
+| 18.10.2025 | 🇨🇿 | Ukončovačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 
 [//]: # "https://github.com/ikatyang/emoji-cheat-sheet#country-flag"
 

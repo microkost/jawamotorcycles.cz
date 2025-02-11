@@ -9,6 +9,7 @@ layout: default
 |  25.1.2025 | 🇨🇿 | Zimáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 |     4/2025 | 🇨🇿 | Zahajawačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
 |   1.5.2025 | 🇩🇪 | Rodewisch | [jawafreunde.de](https://jawafreunde.de/index.php/beitrage-von-veranstaltungen) |
+|   3.5.2025 | 🇨🇿 | Zahájení sezóny aneb Hanácké čmód | [Litovel](https://www.facebook.com/events/965865398187620/) |
 |  10.5.2025 | 🇫🇮 | Tuuletus JawaTalli | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
 |  31.5.2025 | 🇳🇴 | Jawa club meeting in Lyngdal | [JawaKlubben Norge](http://jawaklubben.no/) |
 |  31.5.2025 | 🇨🇿 | Sraz skupiny | [JAWA OHC](https://www.facebook.com/events/1394221181547387) |

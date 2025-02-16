@@ -11,6 +11,7 @@ layout: default
 |   1.5.2025 | 🇩🇪 | Rodewisch | [jawafreunde.de](https://jawafreunde.de/index.php/beitrage-von-veranstaltungen) |
 |   3.5.2025 | 🇨🇿 | Zahájení sezóny aneb Hanácké čmód | [Litovel](https://www.facebook.com/events/965865398187620/) |
 |  10.5.2025 | 🇫🇮 | Tuuletus JawaTalli | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
+|  17.5.2025 | 🇨🇿 | XIX Setkání majitelů motocyklů JAWA 650/660 | [Voděrady](https://www.motorkari.cz/motoakce/akce/?aid=15662) |
 |  31.5.2025 | 🇳🇴 | Jawa club meeting in Lyngdal | [JawaKlubben Norge](http://jawaklubben.no/) |
 |  31.5.2025 | 🇨🇿 | Sraz skupiny | [JAWA OHC](https://www.facebook.com/events/1394221181547387) |
 |   7.6.2025 | 🇨🇿 | Setkání motocyklů JAWA 500 OHC | [JAWA 500 OHC](https://www.facebook.com/events/1177004126811472) |

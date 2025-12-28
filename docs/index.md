@@ -2,30 +2,19 @@
 layout: default
 ---
 
-## 2025 🇪🇺 events
+## 2026 🇪🇺 events
 
 | Date | Country | Info | Organizer |
 | :--- | :---: | :--- | :--- |
-|  25.1.2025 | 🇨🇿 | Zimáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
-|  26.4.2025 | 🇨🇿 | Zahajawačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
-|   1.5.2025 | 🇩🇪 | Rodewisch | [jawafreunde.de](https://jawafreunde.de/index.php/beitrage-von-veranstaltungen) |
-|   3.5.2025 | 🇨🇿 | Zahájení sezóny aneb Hanácké čmód | [Litovel](https://www.facebook.com/events/965865398187620/) |
-|  10.5.2025 | 🇫🇮 | Tuuletus JawaTalli | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
-|  11.5.2025 | 🇸🇰 | Jawa Turzovka | [Jawa ČZ Turzovka](https://www.facebook.com/events/1643415346258893/) |
-|  17.5.2025 | 🇨🇿 | XIX Setkání majitelů motocyklů JAWA 650/660 | [Voděrady](https://www.motorkari.cz/motoakce/akce/?aid=15662) |
-|  31.5.2025 | 🇳🇴 | Jawa club meeting in Lyngdal | [JawaKlubben Norge](http://jawaklubben.no/) |
-|  31.5.2025 | 🇨🇿 | Sraz skupiny | [JAWA OHC](https://www.facebook.com/events/1394221181547387) |
-|   7.6.2025 | 🇨🇿 | Setkání motocyklů JAWA 500 OHC | [JAWA 500 OHC](https://www.facebook.com/events/1177004126811472) |
-|   7.6.2025 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://www.jawasakki.fi/tapahtuma/jawasakkiajot-2025/) |
-|  14.6.2025 | 🇬🇧 | The UK Jawa CZ Owners Club rally | [Jawaczownersclub.co.uk](http://www.jawaczownersclub.co.uk/events.htm) |
-|  14.6.2025 | 🇨🇿 | Sraz přátel značky Jawa | [Klub netradičních nápadů Ledce](https://www.knnledce.cz/index.php?id=sraz-patel-jawy-a-malotraktor) |
-|  29.6.2025 | 🇱🇹 | Baltic Jawa festival | [JAWA Club Lithuania](https://www.facebook.com/profile.php?id=100077316098945&sk=events) |
-|   5.7.2025 | 🇨🇿 | Jawa brotherhood meeting | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) [pre-registration](https://forms.gle/U27AujPFdqp9f8G9A) [poster](assets/2025/jawa-czechia-brotherhood-2025.jpg) |
-|   9.8.2025 | 🇱🇻 | Latvija Jawa festival | [Jawaklubs Latvija](https://www.facebook.com/Jawaklubs/events) [poster](assets/2025/jawa-latvia-2025.jpg) |
-|   9.8.2025 | 🇳🇴 | Jawa club meeting in Lom | [JawaKlubben Norge](http://jawaklubben.no/) |
-|  30.8.2025 | 🇫🇮 | JawaTalli ajo | [JawaTalli dealer](https://www.jawatalli.fi/news/) |
-|   6.9.2025 | 🇨🇿 | Jawáč Jizbice u Čechtic | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
-| 18.10.2025 | 🇨🇿 | Ukončovačka JKP | [Jawa Klub Praha 1961](http://www.jawaklub.cz/kalendar) |
+|  17.1.2026 | 🇨🇿 | Zimáč Jizbice u Čechtic | [Jawa Klub Praha](http://www.jawaklub.cz/kalendar) |
+|  25.4.2026 | 🇨🇿 | Zahajawačka JKP | [Jawa Klub Praha](http://www.jawaklub.cz/kalendar) |
+|  9?.5.2026 | 🇫🇮 | Tuuletus JawaTalli | [JawaTalli](https://www.jawatalli.fi/news/) |
+|   6.6.2026 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://www.jawasakki.fi/tapahtuma/jawasakkiajot-2026/) |
+| 27?.6.2026 | 🇱🇹 | Baltic Jawa festival | [Jawa Club Lithuania](https://www.facebook.com/profile.php?id=100077316098945&sk=events) |
+|  1?.8.2026 | 🇱🇻 | Latvija Jawa festival | [Jawaklubs Latvija](https://www.facebook.com/Jawaklubs/events) [poster](assets/2026/jawa-latvia-2026.jpg) |
+|  29.8.2026 | 🇫🇮 | JawaTalli ajo | [JawaTalli](https://www.jawatalli.fi/news/) |
+|   6.9.2026 | 🇨🇿 | Jawáč Jizbice u Čechtic | [Jawa Klub Praha](http://www.jawaklub.cz/kalendar) |
+| 10.10.2026 | 🇨🇿 | Ukončovačka JKP | [Jawa Klub Praha](http://www.jawaklub.cz/kalendar) |
 
 [//]: # "https://github.com/ikatyang/emoji-cheat-sheet#country-flag"
 
@@ -40,6 +29,7 @@ You can find the bike manufacturer pages
 - 🇮🇳 [Jawamotorcycles.com](https://www.jawamotorcycles.com?utm_source=jawamotorcycles.cz)
 - 🇦🇷 [rvm.com.ar](https://rvm.com.ar/?utm_source=jawamotorcycles.cz)
 - 🇮🇳 [Yezdi.com](http://yezdi.com?utm_source=jawamotorcycles.cz)
+- 🇨🇳 [jedimotor.com](https://www.jedimotor.com/750cc/?utm_source=jawamotorcycles.cz)
 
 
 ## Past events

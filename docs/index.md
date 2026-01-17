@@ -9,6 +9,7 @@ layout: default
 |  17.1.2026 | 🇨🇿 | Zimáč Jizbice u Čechtic | [Jawa Klub Praha](http://www.jawaklub.cz/kalendar) |
 |  25.4.2026 | 🇨🇿 | Zahajawačka JKP | [Jawa Klub Praha](http://www.jawaklub.cz/kalendar) |
 |  9?.5.2026 | 🇫🇮 | Tuuletus JawaTalli | [JawaTalli](https://www.jawatalli.fi/news/) |
+|  30.5.2026 | 🇨🇿 | Sraz skupiny Jawa 350 | [JAWA OHC](https://www.facebook.com/events/1221708656550732/) |
 |   6.6.2026 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://www.jawasakki.fi/tapahtuma/jawasakkiajot-2026/) |
 | 27?.6.2026 | 🇱🇹 | Baltic Jawa festival | [Jawa Club Lithuania](https://www.facebook.com/profile.php?id=100077316098945&sk=events) |
 |  1?.8.2026 | 🇱🇻 | Latvija Jawa festival | [Jawaklubs Latvija](https://www.facebook.com/Jawaklubs/events) [poster](assets/2026/jawa-latvia-2026.jpg) |

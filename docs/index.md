@@ -8,7 +8,8 @@ layout: default
 | :--- | :---: | :--- | :--- |
 |  17.1.2026 | 🇨🇿 | Zimáč Jizbice u Čechtic | [Jawa Klub Praha](http://www.jawaklub.cz/kalendar) |
 |  25.4.2026 | 🇨🇿 | Zahajawačka JKP | [Jawa Klub Praha](http://www.jawaklub.cz/kalendar) |
-|  9?.5.2026 | 🇫🇮 | Tuuletus JawaTalli | [JawaTalli](https://www.jawatalli.fi/news/) |
+|   2.5.2026 | 🇨🇿 | Hanácké čmód Litovel | [Hanácké čmód](https://veterankalendar.cz/index.php/index.php?id=5&id_p=12499) |
+|   9.5.2026 | 🇫🇮 | Tuuletus JawaTalli | [JawaTalli](https://www.jawatalli.fi/news/) |
 |  30.5.2026 | 🇨🇿 | Sraz skupiny Jawa 350 | [JAWA OHC](https://www.facebook.com/events/1221708656550732/) |
 |   6.6.2026 | 🇫🇮 | JawasakkiAjo | [Jawasakki](https://www.jawasakki.fi/tapahtuma/jawasakkiajot-2026/) |
 |  13.6.2026 | 🇭🇷 | Jawa Croatia meeting | [Omk Adria Kaštel Sućurac](https://www.facebook.com/groups/948308646138064/user/100003857207940) [poster](assets/2026/jawa-croatia-2026.jpg) |
